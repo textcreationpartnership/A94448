@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honest souldiers of the garrison of Hull, &amp;c. These souldiers, time was when your persons were as deare as your actions were honourable; and in truth your noble enterprises founded upon just and righteous principles, ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94448</idno>
+            <idno type="STC">Wing T1406</idno>
+            <idno type="STC">Thomason 669.f.20[31]</idno>
+            <idno type="STC">ESTC R211820</idno>
+            <idno type="EEBO-CITATION">99870513</idno>
+            <idno type="PROQUEST">99870513</idno>
+            <idno type="VID">163448</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163448)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f20[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honest souldiers of the garrison of Hull, &amp;c. These souldiers, time was when your persons were as deare as your actions were honourable; and in truth your noble enterprises founded upon just and righteous principles, ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening lines of text.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "25 7ber [i.e. September] 1656".</note>
+                  <note>Thomason copy imperfect; cropped at bottom with loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Soldiers --  England --  Early works to 1800.</term>
+               <term>Hull (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:163448:1" rendition="simple:additions"/>
+            <head>TO THE HONEST SOULDIERS OF THE GARRISON OF <hi>HULL,</hi> &amp;c. Theſe</head>
+            <opener>
+               <salute>Souldiers,</salute>
+            </opener>
+            <p>TIme was when your Perſons were as deare as your Actions were Honourable; and in truth your noble enterpriſes founded upon Juſt and Righteous Prin<g ref="char:EOLhyphen"/>ciples, was the ground-work of ſuch high affections to your very names; that we did not onely hugge you in our boſomes on earth, but heave you up in our hearts to hea<g ref="char:EOLhyphen"/>ven: To call a perſon a Souldier, of the Victorious Eng<g ref="char:EOLhyphen"/>liſh Army, was in effect to ſay, that he was neither ſorded nor ingenerous; neither mercinary, nor unjuſt; but a man of much goodneſſe, pure in his ayms, undertakings and ends; eſteeming the fruits of Righteouſneſſe in the free<g ref="char:EOLhyphen"/>dome of his Countrey, from the yoke of Uſurpation and Tyrany above his life; but with the Revolution of Time, the ſceane of your noble performances is changed; you and your fellows, who declared your ſelves (diſtinct from your ſuperiour Officers) called forth out of judgement and Conſcience to ſerve the deſigne of God, in throwing down the horn of Monarchy in <hi>England;</hi> and your Coun<g ref="char:EOLhyphen"/>trey, in making them a free and unſubjected people unto the will and luſt of any ſingle perſon. Behold, on a ſudden, you are made to forfet all your Vows, and your judgment and Conſcience are ſacrificed to mans Commands, though never ſo treacherous and abominable. This is evident, if we go no further for a Preſident than your own Garriſon, in the late Caſe of Maſter <hi>Canne,</hi> who without all proceſſe of Law, ſhew of Reaſon, any Conviction, ſome of you turned out of Town, upon the peremptory and irrationall commands of your Mayor, being not able to give the leaſt account for the legality of the attempt: What ſay ye, oh ye ſouldiers? Was this a proceeding upon Judgement and Conſcience, to perſecute a man unto Baniſhment, for no cauſe ſhewn? Nay, nor that can be ſhewn, except he were in ſome meaſure true unto your intereſt of moſt glorious truth. Will your Mayors Warrant (ſuppoſe you had it in your hands to ſhew) be a ſufficient compurgator for you before the judgment ſeat of God? What will any of you ſay before that great Tribunal, when your ſolemn En<g ref="char:EOLhyphen"/>gagements in the high places of the field ſhall be laid on this hand, and your actuall obeying unjuſt directions on that? Will not your Conſciences cry guilty before God and his holy Angels, before the perſons, whom you have dealt injuriouſly with and all the world? Put this day as far off as you will or can, it can and will overtake you; and then every man (as well private Souldiers as Major <hi>Elton)</hi> muſt give an account of the deeds done in the fleſh, whither they be good, or whither they be evil. But you are determined to ſay, Is it not a ſin to refuſe. Commands from our lawfull Officers? Shall the Scripture decide this Que<g ref="char:EOLhyphen"/>ſtion between us? If it be agreed, i'le name the place, <hi>Acts 4. 19. Whether it be right in the ſight of God to harken unto you, more than unto God judge yee;</hi> ſo ſay I to you, whether it be right to harken unto your Mayor, more than unto God, judge yee: God commands you, even you ſouldiers, <hi>to doe violence to no man,</hi> Luke 3 14. Your Mayor com<g ref="char:EOLhyphen"/>mands you to doe violence to Maſter <hi>Canne,</hi> now judge you which is moſt your dutie? If you ſay, it is more righ<g ref="char:EOLhyphen"/>teous to obey your Mayor in this matter; I dare pro<g ref="char:EOLhyphen"/>nounce you curſed with a dreadfull Curſe; and I proteſt againſt you this day, that you are perjured, perfidious, A<g ref="char:EOLhyphen"/>poſtates; the moſt monſtruous wretches that ever tram<g ref="char:EOLhyphen"/>pled on the ground throughout the Globe of all the Earth: If you acknowledge God rather to be obeyed, then repent of what you have done; Repent of the wrong you have done to Maſter <hi>Canne.</hi> And if ever your Mayor command you to deal ſo with any other, without a reall reaſon ſhewn and declared by ſome preſidented Law, refuſe it. Tell him you are men under Vows to God for righteouſneſſe, you have declared your ſelves no mercinaries; you have fought for a due diſtribution of Juſtice, and will not act a<g ref="char:EOLhyphen"/>gainſt it; tell him that though he think not of a day of account you muſt; and howbeit he command, yet think with your ſelves, you are not bound to obey beſides the rule of Reaſon and Righteouſneſſe; Being now no longer the ſervants of men, but of your Country, for the good of which you unſheathed your ſwords, imbrewed them in the blood of <hi>Englands</hi> enemies, and ought ſo to do againſt all who impede its reall proſperity, under a free Repre<g ref="char:EOLhyphen"/>ſentative, be they what or whom they will; and much rather thoſe (for ſuch there be) who have dealt deceit<g ref="char:EOLhyphen"/>fully with the Nation, pretending (with you) to intro<g ref="char:EOLhyphen"/>duce freedom<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> but have led us further into the houſe of bondage than <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tofore. Souldiers, I beſeech you in the bowels of c<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on, think on theſe things, whileſt thoſe who ere <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> were no better than poore Michan<g ref="char:EOLhyphen"/>icks (witneſſe your Mayor) pomp themſelves over theſe Nations, and (though they be baſer than the earth (as <hi>Job</hi> ſaid) vaunt it over the freeborn people of <hi>England,</hi> ma<g ref="char:EOLhyphen"/>king themſelves great by the price of your blood, and ar<g ref="char:EOLhyphen"/>rears of pay, which they have frudulently wronged you off. They leave not you alſo void of drugery, think how ſorded a matter it is for you to relinquiſh all your noble principles to proſtrate your ſelves to the luſt of any crea<g ref="char:EOLhyphen"/>ture! Minde your own hearts, how God hath forſaken you, ſince the ſtream was turned by the treachery of your great ones, from a glorious Common-wealth to the vaſ<g ref="char:EOLhyphen"/>ſalage of a Protector (ſo called) and a Councel! God is a<g ref="char:EOLhyphen"/>gainſt them, and you for their ſakes at home and abroad! How are their ſoaring deſignes fruſtrated in <hi>America?</hi> How many of your fellows fell there by the butcherous hands of fifty Cow-killers? How is the hand of God againſt them at home? Their Councels are every way defeated, their Cabinets by their giddie enterpriſes exhauſted, and them<g ref="char:EOLhyphen"/>ſelves run into extreamdebt; ſo that in probability, the lon<g ref="char:EOLhyphen"/>ger they ſubſiſt (except they lay aburden of Taxes upon the Nation, which it can not, will not bear, (by which means you may ſmart for their iniquity, being found at leaſt appearing aſſiſtance of their horrid deſignes) you may ſtill finde a deminution and arrearage in your pay (that free Parliaments by the bleſſing of God may fully ſatisfie) which how ever (indeed) it faire with themſelves, pollicy invites them to; well knowing that poverty debates the ſpirit, and is the beſt way to ſerviliſe any people. Conſider alſo, how many gallant upright ſouls, are now exempt from the right of Election and being elected, onely becauſe they ſtand for what you have engaged to maintain and fought for, and how they diſperſe their wretched brood of Am<g ref="char:EOLhyphen"/>bitious creatures into all the Countries (in particular <hi>York<g ref="char:EOLhyphen"/>ſhire)</hi> to proſtrate the peoples zeal unto their Tyrannicall Threats. Souldiers, In truth, from the higheſt to the low<g ref="char:EOLhyphen"/>eſt they have delt treacherouſly with you; and let them pretend what they pleaſe, you ſtand bound before God and his peo<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> proſecute the end of your engagements, for the ſetle<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> of the three Nations in the way of a Common-we<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lth, in oppoſition to the government of a ſingle Perſon: Have a care of lifting up a hand, or ſtirring a tongue againſt any, whoſe deſignes are by aſſiſting that way, as you value your eternal peace; fight not for them to the diſſolution of your Country, their alone exaltation, and the loſſe of your own ſouls; for if you doe (after ſo many warnings as you have received, and amongſt the reſt this from the hand of your Friend) ſad will be your account before the juſt and righteous judge of heaven and earth; who for the cry of the diſſolute will beſtir himſelf, as a Li<g ref="char:EOLhyphen"/>on to the prey, he will cry, yea roar, and will prevail againſt his adverſaries; And then the ſinners in Zion ſhall be a<g ref="char:EOLhyphen"/>fraid, and fearfulneſſe ſhall ſurpriſe the Hypocrite. <hi>I am far diſtant from you, but my affections draweth forth theſe pre<g ref="char:EOLhyphen"/>monitions before the day of calamity come upon you, like an overſlowing flood.</hi>
+            </p>
+            <closer>
+               <signed>Your true friend ſo far as you ſhall be found ſtedfaſt to your fisſt and <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
